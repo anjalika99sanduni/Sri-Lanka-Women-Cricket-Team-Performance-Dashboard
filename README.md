@@ -36,7 +36,7 @@ This Power BI dashboard provides an in-depth analysis of the Sri Lanka Women’s
 ## Dashboard Preview
 
 ### Overview Page
-![Overview Page](/images/overview.png "Overview of Sri Lanka Women Cricket Dashboard")
+![Overview Page](Home.PNG "Overview of Sri Lanka Women Cricket Dashboard")
 
 ### WT20Is Performance
 ![WT20Is Performance](/images/wt20is.png "WT20Is Performance Metrics")
