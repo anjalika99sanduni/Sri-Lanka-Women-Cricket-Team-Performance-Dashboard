@@ -45,7 +45,7 @@ This Power BI dashboard provides an in-depth analysis of the Sri Lanka Women’s
 ![WODIs Performance](WODIs.PNG "WODIs Performance Metrics")
 
 ### Top Players Stats
-![Top Players Stats](TopPlayers.PNG "Top Players Statistics")
+![Top Players Stats](/TopPlayers.PNG "Top Players Statistics")
 
 ---
 
