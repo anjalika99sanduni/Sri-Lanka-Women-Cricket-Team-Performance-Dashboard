@@ -31,14 +31,6 @@ This Power BI dashboard provides an in-depth analysis of the Sri Lanka Women’s
 - Interactive Dashboard Design
 - Sports Analytics
 
-## How to Use
-1. Download the Power BI report file (.pbix) from this repository.
-2. Open the file in Power BI Desktop.
-3. Explore the different pages and interact with the filters to analyze various aspects of the Sri Lanka Women’s Cricket team performance.
-
-## Project Impact
-This dashboard not only celebrates the achievements of Sri Lanka’s women cricketers but also showcases how data-driven insights can support coaching decisions, fan engagement, and sports analytics.
-
 ---
 
 ## Dashboard Preview
